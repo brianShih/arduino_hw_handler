@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">connect_arduino_bt</string>
+    <string name="action_settings">Settings</string>
+    <string name="Exit">Exit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="StrPage"> - String - </string>
+    <string name="VoicePage"> - Voice - </string>
+    <string name="ImagePage"> - Image - </string>
+    <string name="HelloStr">Hello! I\'m UNO board!</string>
+    <string name="Connect">Connect to Arduino</string>
+	<string name="OnOff">OnOff</string>
+</resources>
